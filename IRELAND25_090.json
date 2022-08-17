@@ -1,0 +1,12 @@
+{
+"NAME" : "IRELAND25_090",
+"TSTEP" : 75,
+"NLON" : 1000,
+"NLAT" : 900,
+"LONC" : -14.5,
+"LATC" : 53.5,
+"LON0" : 5.0,
+"LAT0" : 53.5,
+"GSIZE" : 2500.0,
+"EZONE" : 11 
+}

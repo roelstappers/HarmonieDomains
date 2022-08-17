@@ -1,0 +1,12 @@
+{
+"NAME" : "IGA",
+"TSTEP" : 75,
+"NLON" : 1000,
+"NLAT" : 800,
+"LONC" : -36,
+"LATC" : 64,
+"LON0" : -55.0,
+"LAT0" : 65.0,
+"GSIZE" : 2500.0,
+"EZONE" : 11 
+}

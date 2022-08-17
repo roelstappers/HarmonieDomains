@@ -1,0 +1,12 @@
+{
+"NAME" : "NORWAY_SOUTH_500",
+"TSTEP" : 30,
+"NLON" : 500,
+"NLAT" : 500,
+"LONC" : 8.2,
+"LATC" : 60.1,
+"LON0" : -20.0,
+"LAT0" : 60.1,
+"GSIZE" : 500.0,
+"EZONE" : 11 
+}

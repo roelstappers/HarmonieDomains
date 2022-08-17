@@ -1,0 +1,12 @@
+{
+"NAME" : "NARSARSUAQ",
+"TSTEP" : 20,
+"NLON" : 256,
+"NLAT" : 256,
+"LONC" : -44.3,
+"LATC" : 60.2,
+"LON0" : -44.3,
+"LAT0" : 60.2,
+"GSIZE" : 2000.0,
+"EZONE" : 11 
+}

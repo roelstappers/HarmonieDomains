@@ -1,0 +1,12 @@
+{
+"NAME" : "SCANDINAVIA_5.5",
+"TSTEP" : 120,
+"NLON" : 540,
+"NLAT" : 600,
+"LONC" : 14.0,
+"LATC" : 61.0,
+"LON0" : -10.0,
+"LAT0" : 60.0,
+"GSIZE" : 5500.0,
+"EZONE" : 11 
+}

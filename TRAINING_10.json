@@ -1,0 +1,12 @@
+{
+"NAME" : "TRAINING_10",
+"TSTEP" : 240,
+"NLON" : 150,
+"NLAT" : 150,
+"LONC" : 14.8,
+"LATC" : 51.9,
+"LON0" : 20.0,
+"LAT0" : 50.2,
+"GSIZE" : 10000.0,
+"EZONE" : 11 
+}

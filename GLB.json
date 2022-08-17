@@ -1,0 +1,12 @@
+{
+"NAME" : "GLB",
+"TSTEP" : 45,
+"NLON" : 400,
+"NLAT" : 800,
+"LONC" : -49,
+"LATC" : 65,
+"LON0" : -38.0,
+"LAT0" : 73.0,
+"GSIZE" : 2000.0,
+"EZONE" : 11 
+}

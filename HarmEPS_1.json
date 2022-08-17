@@ -1,0 +1,12 @@
+{
+"NAME" : "HarmEPS_1",
+"TSTEP" : 60,
+"NLON" : 450,
+"NLAT" : 540,
+"LONC" : 8.0,
+"LATC" : 51.7,
+"LON0" : 8.0,
+"LAT0" : 51.7,
+"GSIZE" : 2500.0,
+"EZONE" : 11 
+}

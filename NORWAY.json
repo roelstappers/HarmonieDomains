@@ -1,0 +1,12 @@
+{
+"NAME" : "NORWAY",
+"TSTEP" : 300,
+"NLON" : 270,
+"NLAT" : 400,
+"LONC" : 14.0,
+"LATC" : 66.2,
+"LON0" : -40.0,
+"LAT0" : 66.2,
+"GSIZE" : 11000.0,
+"EZONE" : 11 
+}

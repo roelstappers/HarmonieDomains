@@ -1,0 +1,12 @@
+{
+"NAME" : "IRELAND150",
+"TSTEP" : 360,
+"NLON" : 50,
+"NLAT" : 50,
+"LONC" : -8.5,
+"LATC" : 53.5,
+"LON0" : 0.0,
+"LAT0" : 53.5,
+"GSIZE" : 15000.0,
+"EZONE" : 11 
+}

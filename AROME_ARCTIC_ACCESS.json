@@ -1,0 +1,12 @@
+{
+"NAME" : "AROME_ARCTIC_ACCESS",
+"TSTEP" : 60,
+"NLON" : 750,
+"NLAT" : 960,
+"LONC" : 35.1,
+"LATC" : 76.8,
+"LON0" : -25.0,
+"LAT0" : 77.5,
+"GSIZE" : 2500.0,
+"EZONE" : 11 
+}

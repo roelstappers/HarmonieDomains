@@ -1,0 +1,12 @@
+{
+"NAME" : "DENMARK",
+"TSTEP" : 60,
+"NLON" : 384,
+"NLAT" : 400,
+"LONC" : 9.9,
+"LATC" : 56.3,
+"LON0" : 0.0,
+"LAT0" : 56.3,
+"GSIZE" : 2500.0,
+"EZONE" : 11 
+}
